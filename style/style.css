@@ -181,7 +181,7 @@
   }
   .sec{
     width: 1280px;
-    margin: 50px 140px 0 160px;
+    margin: 50px 140px 80px 160px;
   }
 
   .pill {
@@ -211,8 +211,75 @@
   .di4 {
     border-radius: 16px;
     background-color:#D5D6D8;
-  
   }
+  .btn3{
+    background-color: #5490F5;
+    border-radius: 8px;
+    width: 122px;
+    height: 45px;
+    color: #FFFFFF;
+  }
+  .btn4{
+    background-color: #09A15C;
+    border-radius: 8px;
+    width: 122px;
+    height: 45px;
+    color: #FFFFFF;
+  }
+  .btn5{
+    background-color: #FFC239;
+    border-radius: 8px;
+    width: 122px;
+    height: 45px;
+    color: #FFFFFF;
+  }
+  .eshan{
+    background-color: #5490F5;
+    border-radius: 16px;
+    width: 410px;
+    height: 325px;
+    color: #FFFFFF;
+  }
+  .e{
+    margin: 24px 24px;
+  }
+  .munshi{
+    background-color: #09A15C;
+    border-radius: 16px;
+    width: 410px;
+    height: 325px;
+    color: #FFFFFF;
+  }
+  .minan{
+    background-color: #FFC239;
+    border-radius: 16px;
+    width: 410px;
+    height: 325px;
+    color: #FFFFFF;
+  }
+  .p2{
+    color: #0E0E0E;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom:16px;
+  }
+  .gap{
+    margin: 48px 24px 12px 24px;
+  }
+  .yunus{
+    margin-left: 24px;
+  }
+  .last{
+    border-radius: 16px;
+    background-color: aquamarine; 
+    margin-bottom: 80px;
+     }
+  .im3{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+  }
+  
   
   
   
